@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Saniya Anklesaria</h1>
+<h1 align="center">Hi, I'm Saniya Anklesaria</h1>
 <h3 align="center">Passionately Blending Software and Machine Learning</h3>
 
-- 🌱 I’m currently learning **Cloud Computing**
+- Currently Learning: **Cloud Computing**
 
-- 📫 How to reach me **anklesaria.s@northeastern.edu**
+- You can reach me on: **anklesaria.s@northeastern.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
