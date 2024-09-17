@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Saniya Anklesaria</h1>
 <h3 align="center">Passionately Blending Software and Machine Learning</h3>
 
-- Currently Learning: **Cloud Computing**
+- Currently Learning: **Swift**
 
 - You can reach me on: **anklesaria.s@northeastern.edu**
 
