@@ -1,7 +1,5 @@
 <h1 align="center">Hi, I'm Saniya Anklesaria</h1>
-<h3 align="center">Passionately Blending Software and Machine Learning</h3>
-
-- Currently Learning: **Swift**
+<h3 align="center">Machine Learning Engineer @Aiera | AWS Certified Cloud Practitioner | MS CS @ Northeastern University, Boston</h3>
 
 - You can reach me on: **anklesaria.s@northeastern.edu**
 
